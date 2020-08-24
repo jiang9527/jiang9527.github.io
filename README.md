@@ -1,3 +1,14 @@
+
+
+#由神童Github提供支持
+
+#观看需要得到神童授权
+
+#自己写HTML
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jiang9527/jiang9527.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
