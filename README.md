@@ -1,6 +1,6 @@
 # 测试使用vscode进行同步仓库
-# 添加
 
+## 删除
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jiang9527/jiang9527.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
